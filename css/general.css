@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'star';
+    src: url(../fuentes/Game\ Of\ Squids.otf);
+}
+/*HOJA DE ESTILOS*/
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+h1{
+    font-family: 'star';
+    letter-spacing: 10px;
+    font-size: 3rem;
+}
